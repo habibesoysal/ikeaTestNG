@@ -4,24 +4,134 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="570e8b5c-6294-4b56-b7fe-8aa0b7921c49" name="Changes" comment="" />
+    <list default="true" id="570e8b5c-6294-4b56-b7fe-8aa0b7921c49" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/IkeaPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/IkeaPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/US_Customer/AllClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/US_Customer/AllClass.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2HZlkUD0lmo7mmmD39j69XwzKuA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO/IdeaProjects/ikeaTestNG/src/test/java/utilities&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\IdeaProjects\ikeaTestNG\src\test\java\utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.AllClass.test04">
+    <configuration name="AllClass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ikeaTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.US_Customer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.US_Customer" />
+      <option name="MAIN_CLASS_NAME" value="test.US_Customer.AllClass" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllClass.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ikeaTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.US_Customer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.US_Customer" />
+      <option name="MAIN_CLASS_NAME" value="test.US_Customer.AllClass" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllClass.test02" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ikeaTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.US_Customer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.US_Customer" />
+      <option name="MAIN_CLASS_NAME" value="test.US_Customer.AllClass" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllClass.test04" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ikeaTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.US_Customer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.US_Customer" />
+      <option name="MAIN_CLASS_NAME" value="test.US_Customer.AllClass" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AllClass.test04" />
+        <item itemvalue="TestNG.AllClass" />
+        <item itemvalue="TestNG.AllClass.test02" />
+        <item itemvalue="TestNG.AllClass.test01" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
